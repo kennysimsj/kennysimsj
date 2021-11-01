@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kennysimsj
 - 👀 I’m interested in Data Science
---->
